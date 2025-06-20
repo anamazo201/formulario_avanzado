@@ -34,8 +34,3 @@ FORMULARIO AVANZADO/
 
 - Puedes modificar los estilos en `css/styles.css`.
 - Puedes agregar o quitar validaciones en el script dentro de `index.html`.
-
-## Créditos
-
-Desarrollado por [Paula Buitrago, Shirly Ostos y Laura Buritica].
-
